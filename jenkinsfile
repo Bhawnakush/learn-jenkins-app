@@ -10,7 +10,7 @@ pipeline {
                 }
             }
             steps {
-                echo 'Hello World this is bhawna'
+                echo 'Hello World this is bhawna kushwaha'
                 sh '''
                 ls -la
                 node --version
